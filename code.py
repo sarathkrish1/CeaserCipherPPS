@@ -73,3 +73,4 @@ elif a=="bd_digits":
 elif a=="digits":
     print("OTP:" + Otp(6).digits)
 else:
+    print("Choice Error")
